@@ -1,0 +1,1 @@
+This is a Puppeteer app for downloading pdf, screenshot or dom of a website.

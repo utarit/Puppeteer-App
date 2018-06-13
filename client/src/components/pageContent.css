@@ -1,0 +1,37 @@
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px 0;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.textbox {
+    height: 20px;
+    border: 1px solid #d4d4d4;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#radio-container {
+    margin-bottom: 20px;
+}
+
+#radio-container input {
+    margin-left: 20px;
+}
+
+button {
+    margin: 0 100px; 
+    background-color: #222;
+    border: none;
+    padding: 6px;
+    color: whitesmoke;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+  
+  button:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
