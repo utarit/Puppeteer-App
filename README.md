@@ -1,1 +1,1 @@
-This is for downloading pdf, screenshot , dom text of websites. Using React, Express, puppeteer.
+This project is for downloading pdf, screenshot , dom text of websites. Using React, Express, puppeteer.
